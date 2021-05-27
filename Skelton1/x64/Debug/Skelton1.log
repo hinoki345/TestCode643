@@ -1,6 +1,0 @@
-﻿  Geometry.cpp
-  main.cpp
-C:\Users\cain1\OneDrive\ドキュメント\643\Skelton1\main.cpp(7,41): warning C4390: ';': 制御が空の文が見つかりました。意図した記述でしょうか?
-C:\Users\cain1\OneDrive\ドキュメント\643\Skelton1\main.cpp(15,56): warning C4390: ';': 制御が空の文が見つかりました。意図した記述でしょうか?
-  コードを生成中...
-  Skelton1.vcxproj -> C:\Users\cain1\OneDrive\ドキュメント\643\Skelton1\x64\Debug\Skelton1.exe
