@@ -1,0 +1,2 @@
+C:\Users\cain1\OneDrive\デスクトップ\サンプル\x64\Debug\sample.exe
+C:\Users\cain1\OneDrive\デスクトップ\サンプル\x64\Debug\sample.pdb
